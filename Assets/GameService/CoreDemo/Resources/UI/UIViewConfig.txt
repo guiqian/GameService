@@ -1,0 +1,13 @@
+{
+	"Datas": [{
+		"UIName": "DemoUIView",
+		"UIPath": "UI/DemoUIView",
+		"LaunchMode": "Default",
+		"Layer": "Common"
+	}, {
+		"UIName": "DemoUIView2",
+		"UIPath": "UI/DemoUIView2",
+		"LaunchMode": "Singletop",
+		"Layer": "Dialog"
+	}]
+}
